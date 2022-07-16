@@ -2051,7 +2051,7 @@ XeonBotInc.sendMessage(from, { text: `*${command}*\n\nName : ${q}\nAnswer : *${s
 case 'dare':
                    if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
-              const dare =[	      
+              const dare =[ 
     "eat 2 tablespoons of rice without any side dishes, if it's dragging you can drink",
     "spill people who make you pause",
     "call crush/pickle now and send ss",
@@ -2064,7 +2064,6 @@ case 'dare':
     "Tell random people _I was just told I was your twin first, we separated, then I had plastic surgery. And this is the most ciyusss_ thing",
     "mention ex's name",
     "Say I want to marry you @Takashi Mitsuya".
-    "Send me your live pic of our".
     "make 1 rhyme for the members!",
     "send ur whatsapp chat list",
     "chat random people with gheto language then ss here",
