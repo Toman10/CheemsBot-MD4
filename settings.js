@@ -66,7 +66,7 @@ global.ownertag = '918414802914' //ur tag number
 global.botname = 'Toman Bot' //ur bot name
 global.linkz = "https://instagram.com/_.chingkheinganba._?igshid=YmMyMTA2M2Y=" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/_.chingkheinganba._?igshid=YmMyMTA2M2Y=" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.botscript = 'https://chat.whatsapp.com/Jx8F6yRcFNU3pmukvI2zTh' //script link
 global.reactmoji = "☕" //ur menu react emoji
 global.themeemoji = "🕸" //ur theme emoji
 global.packname = "Draken サマー \n\n\n\n\n\n\n\n\n\n\n☕ " //ur sticker watermark packname
